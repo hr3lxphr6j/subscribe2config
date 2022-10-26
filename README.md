@@ -86,6 +86,7 @@ python3 ./subscribe2config.py -i "https://example.com/subscribe"
                 "wsSettings": {
                     "path": "/trojan"
                 }
+            }
         },
         {
             "protocol": "trojan",
